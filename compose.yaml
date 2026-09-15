@@ -14,7 +14,7 @@ services:
       ONLINE_MODE: "FALSE"
       MEMORY: "2G"
       MAX_PLAYERS: "666"
-      MOTD: "Выживание"
+      MOTD: "ААААААА"
       ENABLE_RCON: "false"
     volumes:
       - ./data:/data
@@ -35,7 +35,7 @@ services:
 #      ONLINE_MODE: "FALSE"
 #      MEMORY: "2G"
 #      MAX_PLAYERS: "666"
-#      MOTD: "Второй мир"
+#      MOTD: "Описание"
 #      ENABLE_RCON: "false"
 #    volumes:
 #      - ./data2:/data     # папка для другого мира
